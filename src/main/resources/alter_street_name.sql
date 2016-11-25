@@ -1,0 +1,1 @@
+alter VIEW v_street_name as select street_name_id, street_name from street_name_v_%s

@@ -1,0 +1,1 @@
+alter VIEW v_municipality as select municipality_id, municipality_name from municipality_v_%s

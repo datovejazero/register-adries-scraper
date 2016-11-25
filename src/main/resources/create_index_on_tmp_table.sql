@@ -1,0 +1,5 @@
+CREATE INDEX address_region_name_index on %s (region)
+CREATE INDEX address_country_index on %s (country)
+CREATE INDEX address_municipality_index on %s (municipality)
+CREATE INDEX address_street_name_index on %s (street_name)
+CREATE INDEX address_building_number_index on %s (building_number)
